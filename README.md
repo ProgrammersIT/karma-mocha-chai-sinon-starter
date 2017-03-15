@@ -5,7 +5,7 @@ Karmer runner with Mocha, Chai-Sinon and allows you to test ES6 (with Browserify
 ## Clone the repo:
 
 ```sh
-git clone git@github.com:pedrobarrostech/karma-mocha-chai-sinon-starter.git
+git clone git@github.com:ProgrammersIT/karma-mocha-chai-sinon-starter.git
 cd karma-mocha-chai-sinon-starter
 ```
 
