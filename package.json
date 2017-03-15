@@ -18,7 +18,12 @@
       ]
     ]
   },
-  "keywords": ["mocha", "karma", "sinon", "chai"],
+  "keywords": [
+    "mocha",
+    "karma",
+    "sinon",
+    "chai"
+  ],
   "author": "Pedro Barros",
   "license": "MIT",
   "devDependencies": {
@@ -47,6 +52,7 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "json-server": "^0.9.6"
   }
 }
